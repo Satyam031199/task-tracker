@@ -1,0 +1,35 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "May 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Food Shopping",
+      "day": "May 7th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "id": "3",
+      "text": "Go to the Gym",
+      "day": "May 9th at 6:30pm",
+      "reminder": true
+    },
+    {
+      "id": "4",
+      "text": "Water the plants",
+      "day": "May 30th at 4.30pm",
+      "reminder": true
+    },
+    {
+      "id": "77e4",
+      "text": "Complete the work",
+      "day": "May 30th at 7:00pm",
+      "reminder": false
+    }
+  ],
+  "products": []
+}
